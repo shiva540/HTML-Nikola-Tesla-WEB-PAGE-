@@ -1,5 +1,4 @@
-# HTML-Nikola-Tesla-WEB-PAGE-
-Nikola Tesla(WEB PAGE)
+
 <html>
   <style>
     body {
@@ -66,9 +65,7 @@ li {
 
 @media (max-width: 400px) {
  
-}
-    </style>
-    
+}  </style>
     <body>
     <div id="main">
     <div id="title">
@@ -89,7 +86,6 @@ li {
      <li>1863-Tesla’s brother Daniel was killed in a riding accident.</li>
      <li>1882- He came up with the idea for a brushless AC motor.</li>
      <li>1884-Tesla arrived in New York hired as an engineer at Thomas Edison’s Manhattan headquarters.</li>
-     
      <li>1887-American Institute of Electrical Engineers on his work.</li>
      <li>1890-Tesla invented electric oscillators, meters, improved lights and the high-voltage transformer known as the Tesla coil.</li>
      <li>1891-World’s Columbian Exposition in Chicago and partnered with General Electric to install AC generators at Niagara Falls, creating the first modern power station.</li>
@@ -101,6 +97,5 @@ li {
 <a id="tribute-link" href="https://en.wikipedia.org/wiki/Nikola_Tesla" target="_blank">Wikipedia</a>.
     </div>
   </div>
-    </body>
-    
+    </body> 
   </html>
