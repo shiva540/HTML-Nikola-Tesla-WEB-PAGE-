@@ -1,5 +1,5 @@
-
 <html>
+  <head>
   <style>
     body {
   background-color: gray;
@@ -65,7 +65,9 @@ li {
 
 @media (max-width: 400px) {
  
-}  </style>
+}  
+</style>
+</head>
     <body>
     <div id="main">
     <div id="title">
